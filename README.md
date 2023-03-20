@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/Morkstn">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Morkstn&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkstn&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Morkstn&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkstn&layout=compact&langs_count=7&theme=midnight-purple"/>
        </div>     
 <div style="display: inline_block"><br>
   <img align="center" alt="Mora-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,10 +14,7 @@
   <img align="center" alt="Mora-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mora-Php" height="30" width="40" src="https://devicons.railway.app/i/php.svg">
   <img align="center" alt="Mora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
- 
-
-          
+         
           
   
 </div>
